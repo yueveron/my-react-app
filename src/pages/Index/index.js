@@ -20,7 +20,7 @@ export default class Index extends React.Component {
 
     return (
         <div>
-          我是首页
+          我是首页-HelloWorld
           <br/>
           <br/>
 
